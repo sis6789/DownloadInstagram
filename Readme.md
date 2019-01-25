@@ -1,7 +1,7 @@
 ## How to use
 
 1. Access instagram site with chrome browser
-2. Press control-shift-i
+2. Press *`control-shift-i`*
 3. Right click *`html`*
 4. Copy outer
 5. Start this program
