@@ -16,7 +16,7 @@
 
 Restriction: _You could get only 2 photos_ 
 
-###*Drop small image*
+## *Drop small image*
 
 A photo which is less than *350x350 pixels*
 
