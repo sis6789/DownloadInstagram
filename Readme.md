@@ -1,4 +1,4 @@
-###*How to use*
+## How to use
 
 1. Access instagram site with chrome browser
 2. Press control-shift-i
@@ -12,7 +12,7 @@
 10. Repeat steps from 3
 11. To terminate execution, enter *`~0 enter`*
 
-###*Multi-Photo for single article*
+## *Multi-Photo for single article*
 
 Restriction: _You could get only 2 photos_ 
 
@@ -20,12 +20,12 @@ Restriction: _You could get only 2 photos_
 
 A photo which is less than *350x350 pixels*
 
-##*Recommendation*
+## *Recommendation*
 
 Use chrome extension *`instagram`*.
 
 You can check instagram and download each image manually.
 
-##*Author*
+## *Author*
 
 Blog (https://sis6789.blog.me/)
